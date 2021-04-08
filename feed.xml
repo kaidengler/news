@@ -1,19 +1,12 @@
-<feed version="0.3">
-<title>Gmail - Label 'test' for kuwwe777@gmail.com</title>
-<tagline>New messages in your 'test' label</tagline>
-<fullcount>1</fullcount>
-<link rel="alternate" href="https://mail.google.com/mail" type="text/html"/>
-<modified>2021-04-08T08:36:14Z</modified>
-<entry>
-<title>test</title>
-<summary>test</summary>
-<link rel="alternate" href="https://mail.google.com/mail?account_id=kuwwe777@gmail.com&message_id=178b09fcba4bccd1&view=conv&extsrc=atom" type="text/html"/>
-<modified>2021-04-08T08:36:05Z</modified>
-<issued>2021-04-08T08:36:05Z</issued>
-<id>tag:gmail.google.com,2004:1696460665697062097</id>
-<author>
-<name>ich</name>
-<email>kuwwe777@gmail.com</email>
-</author>
-</entry>
-</feed>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+        <channel>
+                <item>
+                        <title>Atom-Powered Robots Run Amok</title>
+                        <link>http://example.org/2003/12/13/atom03</link>
+                        <guid isPermaLink="false">urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</guid>
+                        <pubDate>Sat, 13 Dec 2003 18:30:02 GMT</pubDate>
+                        <description>Some text.</description>
+                </item>
+        </channel>
+</rss>
